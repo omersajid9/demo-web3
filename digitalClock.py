@@ -4,3 +4,4 @@ window = Tk()
 window.title("Digital clock")
 window.geometry("600x300")
 window.mainloop()
+#  comments added
